@@ -10,7 +10,7 @@ This repository contains the collection of STM32 and FreeRTOS-based embedded sys
 
 | Experiment | Project | Repository Link |
 |---|---|---|
-| 1 | GPIO LED Blink | [Open Repository]((https://github.com/ayushjangra05/STM32-GPIO-LED-Blink-Using-HAL)) |
+| 1 | GPIO LED Blink | [Open Repository](https://github.com/ayushjangra05/STM32-GPIO-LED-Blink-Using-HAL) |
 | 2 | Push Button LED Control | [Open Repository](https://github.com/ayushjangra05/STM32-PushButton-LED-Control-Using-GPIO) |
 | 3 | HC-SR04 Ultrasonic Distance Measurement | [Open Repository](https://github.com/ayushjangra05/STM32-HCSR04-Ultrasonic-Distance-Measurement) |
 | 4 | PWM LED Brightness Control | [Open Repository](https://github.com/ayushjangra05/STM32-PWM-LED-Control-Using-Timers) |
